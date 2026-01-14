@@ -1,3 +1,3 @@
 import os 
 import OK
-OK.loging()
+OK.loging.()
